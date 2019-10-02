@@ -1,0 +1,38 @@
+.btn-green {
+	background-color: #14bbcc;
+	padding: 15px 50px; 
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	margin: 20px 48px; 
+}
+
+.btn-green:hover {
+	transition: ease; 
+	transition-duration: 0.5; 
+}
+
+
+.btn-search {
+	background-color: white;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border: 3px, solid; grey; 
+	padding: 6px; 
+	margin-left: 4px; 
+	border-radius: 4px;
+	color: #14bbcc; 
+	font-size: 22px;
+}
+
+.btn-round {
+	background-color: #247a85; 
+	padding: 10px 10px;
+	border-radius: 7px;
+	box-shadow: 0px 10px 40px rgba(0,0,0,0.3);
+	font-size: 15px;
+	margin-top: -30px;
+}
+
+.btn-round:hover {
+	background-color: #14bbcc; 
+}
+

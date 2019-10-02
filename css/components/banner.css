@@ -1,0 +1,8 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(173,220,255,0.6) 0%, rgba(173,216,230,0.2) 90%), url(../../images/banner4.png);
+	background-size: cover; 
+	background-position: center;
+	color: #ecf9fb;
+	padding: 90px 0px;
+}
+

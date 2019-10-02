@@ -1,0 +1,139 @@
+@import url("https://fonts.google.com/?query=assi&selection.family=Assistant:400,700,800|Baloo+Thambi");
+
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/search.css");
+@import url("components/card.css");
+@import url("components/servicespicture.css");
+
+
+
+body{
+	font-family: 'Assistant', sans-serif;
+	font-size: 18px; 
+	text-align: center;
+	color: #89bcc3; 
+	background-color: #fbffff;
+
+
+}
+
+h1 {
+	font-family: 'Baloo Thambi', cursive;
+	font-size: 200px; 
+	margin: 0px 0px; 
+	padding: 0;
+	color: #247a85; 
+}
+
+h2 {
+	font-family: 'Assistant' 400; 
+	color: #3b7178; 
+}
+
+#h2-space {
+	margin-top: 50px; 
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Assistant', sans-serif;
+	font-size: 18px; 
+	font-weight: bold;
+	color: white; 
+}
+
+a:hover {
+	background-color: #3b7178;  
+}
+
+
+#intro {
+	font-size: 20px; 
+}
+
+footer{
+	display: block;
+	background-color: #14bbcc;
+	color: rgb(230, 230, 230);
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+
+
+
+
+
+/* Search bar styling as doesnt import for some reason*/ 
+
+
+
+div .search {
+	 border: none;
+	 margin: 15px auto;
+	 font-size: 22px;
+	 padding: 5.3px;
+	 width: 350px;  
+	 border-radius: 4px;
+}
+
+
+#search-icon {
+	border: 3px, solid; grey; 
+	padding: 8.125px; 
+	background-color: #3b7178;
+	margin-left: 4px; 
+	border-radius: 4px;
+	color: white; 
+	font-family: 'Assistant', sans-serif;
+	font-size: 18px; 
+	font-weight: bold;
+}
+
+#search-icon:hover{
+	background-color: white; 
+	color: #3b7178;
+}
+
+
+/* Contact Us styling as doesnt import for some reason*/ 
+
+.list-inline{
+	list-style: none; 
+	padding-left: 0px; 
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
